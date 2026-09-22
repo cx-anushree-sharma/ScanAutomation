@@ -104,6 +104,6 @@ Supported report values are the Checkmarx CLI formats: `summaryHTML`, `summaryCo
 - API Security requires an API specification in the repository for the relevant row. The optional `api_spec_path` maps to the CLI's `--apisec-swagger-filter` flag.
 
 
-# to run the script
+# In order to run the script
 # python .\scan_runner.py --login --csv .\sample-projects.csv --scanners sast,sca
 # python .\scan_runner.py --login --csv .\sample-projects.csv --scanners sast,sca --mode parallel --workers 3
