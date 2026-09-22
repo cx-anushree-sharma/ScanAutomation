@@ -1,0 +1,3 @@
+project_name,repository_url,branch,api_spec_path
+payments-api,https://github.com/company/payments-api.git,main,
+customer-portal,https://github.com/company/customer-portal.git,main,docs/openapi.yaml

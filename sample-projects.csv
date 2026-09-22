@@ -1,0 +1,4 @@
+project_name,repository_url,branch,api_spec_path
+hello-world,https://github.com/octocat/Hello-World.git,master,
+hello-git-world,https://github.com/githubtraining/hellogitworld.git,master,
+spoon-knife,https://github.com/octocat/Spoon-Knife.git,main,
